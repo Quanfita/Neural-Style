@@ -1,13 +1,13 @@
 # Neural-Style
 A TensorFlow Project of Neural Style
-##**代码实现**
+## **代码实现**
 
 **环境介绍**
 - Python3.6
 - TensorFlow 1.2
 - VGG19
 - CPU i5-6200U(笔记本)
-##**实现效果**
+## **实现效果**
 
 **我们的原图是这样的：**
 
